@@ -3,22 +3,21 @@
   body {  
     background-color:lightpink;
   }
+
   h1 {
     font-family:'Yuji Boku', serif;
     font-size: 50px;
     color:black;
     text-align: center;
     background-color: rgb(253, 209, 253);
-
   }
+
   h3 {
     font-family:'monospace','Times New Roman', Times, serif;
     font-size: 16px;
     font-weight:lighter;
     color: rgb(3, 3, 3);
     text-align: center;
-
-
   }
   p {
    font-family: 'monospace','Times New Roman', Times, serif;
