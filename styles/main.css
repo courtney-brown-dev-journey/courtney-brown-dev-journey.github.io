@@ -53,17 +53,15 @@
     color: black;
     border-radius: 150px;
     border-style: hidden;
-    width: 100px;
+    width: 120px;
     height: 40px;
     display: table-row;
     justify-content: center;
-    margin-left: 120px;
+    margin-left: 160px;
 margin-inline-start: auto;
 margin-inline-end: auto;
   }
 
-
-  }
 .title {
 font-family:'Yuji Boku', serif;
 font-size: 40px;
@@ -72,7 +70,7 @@ text-align: center;
 background-color: rgb(253, 209, 253);
 border: 7px solid palevioletred;
 padding: 10px;
-margin: 20px 80px 20px 80px;
+margin: 20px 40px 20px 40px;
 display:inline-flexbox;
 
 
