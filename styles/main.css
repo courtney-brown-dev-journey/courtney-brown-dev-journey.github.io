@@ -5,7 +5,7 @@
   }
 
   h1 {
-    font-family:'Yuji Boku', serif;
+    font-family:'monospace','Times New Roman', Times, serif;
     font-size: 50px;
     color:black;
     text-align: center;
@@ -27,7 +27,7 @@
   
   }
 
-  img {
+   .photos{
     width: 400px;
     height: 400px;
     border-radius: 300px;
@@ -35,15 +35,13 @@
     align-items: center;
     justify-content:center;
   
-  }
-
-    .photos {
-    width: auto;
-    height: auto;
-    border-radius: 300px;
-  display: table-row;
-
     
+    }
+    .examples {
+      padding: 5px 400px 5px 400px;
+      width: 400px;
+      height: 200px;
+
     }
     
   button {
@@ -63,7 +61,7 @@ margin-inline-end: auto;
   }
 
 .title {
-font-family:'Yuji Boku', serif;
+font-family:'monospace','Times New Roman', Times, serif;
 font-size: 40px;
 color:black;
 text-align: center;
