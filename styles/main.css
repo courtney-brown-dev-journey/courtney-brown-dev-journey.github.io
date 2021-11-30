@@ -3,6 +3,14 @@
   body {  
     background-color:lightpink;
   }
+  
+  .intro {
+    font-family:'Yuji Boku', serif;;
+    font-size: 50px;
+    color:black;
+    text-align: center;
+    background-color: rgb(253, 209, 253);
+  }
 
   h1 {
     font-family:'monospace','Times New Roman', Times, serif;
@@ -58,6 +66,8 @@
     margin-left: 160px;
 margin-inline-start: auto;
 margin-inline-end: auto;
+display:inline-block;
+
   }
 
 .title {
