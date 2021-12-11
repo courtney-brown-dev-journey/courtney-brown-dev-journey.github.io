@@ -2,12 +2,20 @@
 
   body {  
     background-color:rgb(255, 157, 171);
-    bac
+    
   }
   
   .intro {
-    font-family:'Yuji Boku', serif;;
+    font-family:'Yuji Boku', serif;
     font-size: 50px;
+    color:black;
+    text-align: center;
+    background-color: rgb(253, 209, 253);
+  }
+
+  .outro {
+    font-family:'Yuji Boku', serif;
+    font-size: 25px;
     color:black;
     text-align: center;
     background-color: rgb(253, 209, 253);
@@ -50,8 +58,8 @@
     }
     .examples {
       padding: 5px 400px 5px 400px;
-      width: 400px;
-      height: 200px;
+      width: 450px;
+      height: 250px;
     }
     .banner {
       width: 1060px;
@@ -144,3 +152,11 @@ margin: 10px 90px 10px 90px;
 border: 2px solid rgb(233, 119, 43);
 justify-content: center; 
 }
+
+.simple {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 90px 10px 90px;
+  border: 6px rgb(253, 209, 253);
+  justify-content: center; 
+  }
